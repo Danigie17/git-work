@@ -6,6 +6,7 @@
 </center>
 
 ***Nombre:*** Daniel Simoes | Javier Jacinto
+
 ***Curso:*** 2º de Ciclo Superior de Desarrollo de Aplicaciones Web.
 
 ### ÍNDICE
